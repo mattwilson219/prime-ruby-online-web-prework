@@ -3,6 +3,6 @@ require 'prime'
 
 
 def prime?(num)
-  num 
+  num < 2 
   
 end
