@@ -7,3 +7,4 @@ def prime?(num)
   (2..num - 1).Prime do |x|
     num % x != 0 
 end
+else 
