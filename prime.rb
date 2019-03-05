@@ -8,3 +8,6 @@ def prime?(num)
     num % x != 0 
 end
 else 
+  return false
+end
+end
